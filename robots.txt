@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://tractanom.github.io/sitemap.html.gz
+Sitemap: https://tractanom.github.io/app/sitemap.html.gz
+Sitemap: https://tractanom.github.io/assets/sitemap.html.gz
+Sitemap: https://tractanom.github.io/css/sitemap.html.gz
+Sitemap: https://tractanom.github.io/data/sitemap.html.gz
+Sitemap: https://tractanom.github.io/includes/sitemap.html.gz
+Sitemap: https://tractanom.github.io/item/sitemap.html.gz
+Sitemap: https://tractanom.github.io/src/sitemap.html.gz
